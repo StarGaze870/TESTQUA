@@ -1,0 +1,14 @@
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\bin\Debug\E-JunkShop.exe.config
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\bin\Debug\E-JunkShop.exe
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\bin\Debug\E-JunkShop.pdb
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E-JunkShop.csproj.AssemblyReference.cache
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.AdminForm.resources
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.Properties.Resources.resources
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E-JunkShop.csproj.GenerateResource.cache
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E-JunkShop.csproj.CoreCompileInputs.cache
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E-JunkShop.exe
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E-JunkShop.pdb
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.WindowButtons.resources
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.LoginForm.resources
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.ItemUserControl.resources
+D:\Desktop_DB\3rdYear\IT-TESTQUA31\Files\Prelim\E-JunkShop\E-JunkShop\obj\Debug\E_JunkShop.EditShopItem.resources
