@@ -56,12 +56,12 @@ namespace E_JunkShop
         private void fillShopItems(int option, string search)
         {
             shopItemsFlowLayoutPanel.Controls.Clear();
-            var list = Functions.getShopItems(option, search);
+            //var list = Functions.getShopItems(option, search);
             
-            for (int i = 0; i < list.Count; ++i)
+            for (int i = 0; i < 5; ++i)
             {
                 var temp = new ItemUserControl();
-                temp.setDetails(list[i].Item1, list[i].Item2, list[i].Item3, list[i].Item4, list[i].Item5, list[i].Item6, list[i].Item7, list[i].Item8, list[i].Item9);
+                //temp.setDetails(list[i].Item1, list[i].Item2, list[i].Item3, list[i].Item4, list[i].Item5, list[i].Item6, list[i].Item7, list[i].Item8, list[i].Item9);
 
                 shopItemsFlowLayoutPanel.Controls.Add(temp);
             }
